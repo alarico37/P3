@@ -1,0 +1,100 @@
+
+h1{
+    text-align: center;
+    color: purple;
+    font-family: Liberation Sans;
+    background-color: #d8da3d;
+    overflow-y: hidden; 
+    position: sticky;
+    top: 0px;
+  
+}
+body{
+    background-color:#d8da3d;
+    font-family: Arial;
+    color: purple;
+}
+.prim{
+    margin-left: 500px;
+    margin-right: 500px;
+    border: solid red 3px;
+    background-color: whitesmoke;
+    color:blue;
+
+}
+.francia{
+    text-align: right;
+    margin-right: 10px;
+
+}
+.img{
+    height: 30px;
+    width: 30px;
+}
+.text1{
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.imgtorre{
+    width: 150px;
+    height: 150px;
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    float: left; 
+}
+.seg{
+    margin-left: 400px;
+    margin-right: 700px;
+    border: solid black 3px;
+    color: white;
+    background-color: red;
+
+}
+.Egipto{
+    text-align: right;
+    margin-right: 10px;
+
+}
+.text2{
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.piramides{
+    width: 150px;
+    height: 150px;
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-top: 10px;
+    float: left; 
+}
+.ter{
+    margin-left: 700px;
+    margin-right: 400px;
+    border: solid yellow 3px;
+    background-color: white;
+    color: black;
+
+}
+.text3{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.muralla{
+    width: 150px;
+    height: 150px;
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-top: 10px;
+    float: left; 
+}
+.China{
+    text-align: right;
+    margin-right: 10px;
+
+}
